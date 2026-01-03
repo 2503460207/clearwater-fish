@@ -1,0 +1,29 @@
+---
+# 博文前置信息（Jekyll必需，格式不能错）
+layout: post
+title: "我的第一篇博客：开启GitHub Pages博客之旅"
+date: 2026-01-03 22:00:00
+categories: 学习记录
+tags:
+  - GitHub Pages
+  - Jekyll
+  - 静态博客
+---
+
+# 我的第一篇博客
+Hello！欢迎来到我的个人博客～
+
+这是我用GitHub Pages + Jekyll搭建的第一篇博客，终于迈出了博客创作的第一步！
+
+## 为什么选择GitHub Pages建博客？
+1. **免费**：无需服务器，GitHub提供免费的静态网页托管服务；
+2. **简单**：用Markdown写内容，不用复杂的网页开发知识；
+3. **灵活**：可以通过Jekyll主题自定义博客样式，后续还能不断优化。
+
+## 后续计划
+接下来我会继续分享：
+- GitHub Pages的进阶配置技巧
+- Markdown的排版小知识
+- 日常的学习和思考
+
+如果这篇文章对你有帮助，欢迎在评论区交流～ 😊
