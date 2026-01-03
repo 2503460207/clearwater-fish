@@ -1,0 +1,28 @@
+# 博客基础信息
+title: 清水鱼的个人博客
+email: 1989549515@qq.com
+description: >-
+  这是我的个人博客，分享日常思考与学习记录～
+baseurl: "/clearwater-fish"  # 填写仓库名，必须以/开头
+url: "https://2503460207.github.io" 
+twitter_username: 
+github_username: 2503460207 
+
+# Jekyll主题配置
+theme: minima
+minima:
+  skin: default  # 主题皮肤：default/slate/solarized/dark
+  social_links:
+    - { platform: github, user_url: "https://github.com/2503460207" }
+
+# 博文相关配置
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+paginate: 5  # 首页每页显示5篇博文
+paginate_path: /page/:num/
+
+# 插件（GitHub Pages原生支持）
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
